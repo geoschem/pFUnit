@@ -14,5 +14,8 @@
 /mod
 /mpi_pFUnit.x
 /nag
+/extern/fArgParse
+/extern/gFTL
+/extern/gFTL-shared
 *.zip
 build/
